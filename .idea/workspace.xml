@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0e2e6c0-cd49-4332-ab9b-6e48ed7363ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Presidents" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a60JKy4iUmlofqQM9aLKSW5lCu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PresidentFrame">
+    <configuration name="DownloadImages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DownloadImages" />
+      <module name="Presidents" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Names" />
+      <module name="Presidents" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="President" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="President" />
+      <module name="Presidents" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PresidentFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PresidentFrame" />
+      <module name="Presidents" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PresidentPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PresidentPanel" />
+      <module name="Presidents" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PresidentFrame" />
+        <item itemvalue="Application.PresidentPanel" />
+        <item itemvalue="Application.DownloadImages" />
+        <item itemvalue="Application.President" />
+        <item itemvalue="Application.Names" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e2e6c0-cd49-4332-ab9b-6e48ed7363ca" name="Default Changelist" comment="" />
+      <created>1586040662309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586040662309</updated>
+      <workItem from="1586040665269" duration="7452000" />
+      <workItem from="1586048997740" duration="218000" />
+      <workItem from="1586124283050" duration="1169000" />
+      <workItem from="1586186635252" duration="663000" />
+      <workItem from="1586188165723" duration="3704000" />
+      <workItem from="1586381182270" duration="10813000" />
+      <workItem from="1586441603650" duration="1860000" />
+      <workItem from="1586468492250" duration="3703000" />
+      <workItem from="1586533657667" duration="3017000" />
+      <workItem from="1586706705512" duration="1774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1586468910094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1586468910094" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586041539570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586041539570" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586046782044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586046782044" />
+    <state x="441" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586534158405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1586534158405" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586708886586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586708886586" />
+    <state x="553" y="257" key="Github.ShareDialog" timestamp="1586708928247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1586708928247" />
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1586708906859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586708906859" />
+    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1586708906859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586708906859" />
+    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1586708906858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586708906858" />
+    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1586708906859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586708906859" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1586708877315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586708877315" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1586186817790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586186817790" />
+  </component>
+</project>
