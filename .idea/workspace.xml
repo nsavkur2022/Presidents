@@ -17,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a60JKy4iUmlofqQM9aLKSW5lCu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,7 +42,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -110,7 +114,7 @@
       <workItem from="1586441603650" duration="1860000" />
       <workItem from="1586468492250" duration="3703000" />
       <workItem from="1586533657667" duration="3017000" />
-      <workItem from="1586706705512" duration="1774000" />
+      <workItem from="1586706705512" duration="2147000" />
     </task>
     <servers />
   </component>
@@ -134,34 +138,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1586534158405" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586708886586">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586709239476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586708886586" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586709239476" />
     <state x="553" y="257" key="Github.ShareDialog" timestamp="1586708928247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1586708928247" />
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1586708906859">
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1586709219091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586708906859" />
-    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1586708906859">
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
+    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1586709219091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586708906859" />
-    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1586708906858">
+    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
+    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1586709219091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586708906858" />
-    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1586708906859">
+    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
+    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1586709219091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586708906859" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1586708877315">
+    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1586709251763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586708877315" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586709251763" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586709089263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586709089263" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1586186817790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

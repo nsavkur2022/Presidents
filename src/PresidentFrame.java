@@ -16,12 +16,6 @@ public class PresidentFrame extends JFrame implements ActionListener, ItemListen
     public PresidentFrame() throws IOException {
         super("The Former Presidents of the United States of America");
         setLayout(new BorderLayout());
-        try {
-            // Set cross-platform Java L&F (also called "Metal")
-            UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
-        } catch (UnsupportedLookAndFeelException | ClassNotFoundException | InstantiationException | IllegalAccessException e) {
-            // handle exception
-        }
 
         names = new Names();
         list = new JComboBox<>(names.toArray());
