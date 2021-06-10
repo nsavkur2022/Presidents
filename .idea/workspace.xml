@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e2e6c0-cd49-4332-ab9b-6e48ed7363ca" name="Default Changelist" comment="" />
+    <list default="true" id="a0e2e6c0-cd49-4332-ab9b-6e48ed7363ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/namelist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Presidents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Presidents.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Presidents/META-INF/Presidents.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Presidents/Names.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Presidents/Names.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Presidents/PresidentFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Presidents/PresidentFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Presidents/PresidentPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Presidents/PresidentPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Names.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PresidentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PresidentFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PresidentPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PresidentPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Presidents" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,14 +51,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jsoup-1.13.1.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,16 +113,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.PresidentFrame" />
         <item itemvalue="Application.PresidentPanel" />
+        <item itemvalue="Application.Names" />
         <item itemvalue="Application.DownloadImages" />
         <item itemvalue="Application.President" />
-        <item itemvalue="Application.Names" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,64 +157,46 @@
       <workItem from="1586468492250" duration="3703000" />
       <workItem from="1586533657667" duration="3017000" />
       <workItem from="1586706705512" duration="2147000" />
+      <workItem from="1605823320833" duration="1544000" />
+      <workItem from="1623359668594" duration="4107000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Inspections" timestamp="1586468910094">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1623363709237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1586468910094" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586041539570">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623363709237" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1623363709237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586041539570" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586046782044">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623363709237" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1623363709237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586046782044" />
-    <state x="441" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586534158405">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623363709237" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1623363709237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="441" y="235" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1586534158405" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586709239476">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623363709237" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1623363791625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586709239476" />
-    <state x="553" y="257" key="Github.ShareDialog" timestamp="1586708928247">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1586708928247" />
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1586709219091">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
-    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1586709219091">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
-    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1586709219091">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
-    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1586709219091">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586709219091" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1586709251763">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586709251763" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586709089263">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586709089263" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1586186817790">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586186817790" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1623363791625" />
   </component>
 </project>

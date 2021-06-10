@@ -21,18 +21,21 @@ public class PresidentPanel extends JPanel {
         BufferedReader site = new BufferedReader(new InputStreamReader(whiteHouse.openConnection().getInputStream()));
 
         String inputLine;
-        StringBuilder page = new StringBuilder();
+        String page = "";
         while ((inputLine = site.readLine()) != null)
-            page.append(inputLine);
+            page += inputLine;
+
+        String newPage = page;
 
         try {
-            summary = Jsoup.parse(page.substring(page.indexOf("<!-- The Content -->"), page.indexOf("</p><p><em>")).replace("</p><p>", ",,")).text().replace(",,", "\n");
+            newPage = page.substring(page.indexOf("</div><!-- end .side-nav -->"), page.indexOf("<p><em>"));
         } catch (Exception e) {
-            summary = Jsoup.parse(page.substring(page.indexOf("<!-- The Content -->"), page.indexOf("</p><hr />")).replace("</p><p>", ",,")).text().replace(",,", "\n");
+            newPage = page.substring(page.indexOf("</div><!-- end .side-nav -->"), page.indexOf("<p class=\"is-style-default\"><em>"));
         }
+        summary = newPage.replaceAll("<.*?>", "\n").trim();
 
-        page = new StringBuilder(page.substring(page.indexOf("<picture>"), page.indexOf("</picture>")));
-        URL webImage = new URL(page.substring(page.indexOf("=") + 2, page.indexOf("media") - 2).trim());
+        page = page.substring(page.indexOf("<div class=\"offset-img\">"), page.indexOf("</div>", page.indexOf("<div class=\"offset-img\">")));
+        URL webImage = new URL(page.substring(page.indexOf("src=") + 5, page.indexOf("\" class")).trim());
         BufferedImage image = ImageIO.read(webImage);
         this.image = new ImageComponent(image);
 
@@ -44,7 +47,7 @@ public class PresidentPanel extends JPanel {
         summary.setLineWrap(true);
         summary.setWrapStyleWord(true);
         summary.setFont(new Font("Times New Roman", Font.PLAIN, 14));
-        summary.setMargin( new Insets(5,5,5,5) );
+        summary.setMargin(new Insets(5, 5, 5, 5));
         JScrollPane sp = new JScrollPane(summary);
         sp.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED);
         sp.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);

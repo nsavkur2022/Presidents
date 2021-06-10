@@ -34,7 +34,6 @@ public class PresidentFrame extends JFrame implements ActionListener, ItemListen
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(1215, 577);
         setVisible(true);
-        setResizable(false);
     }
 
     @Override
@@ -78,7 +77,7 @@ public class PresidentFrame extends JFrame implements ActionListener, ItemListen
         }
     }
 
-    public static void main(String[] args) throws IOException, ClassNotFoundException, UnsupportedLookAndFeelException, InstantiationException, IllegalAccessException {
+    public static void main(String[] args) throws IOException {
         new PresidentFrame();
     }
 }
